@@ -142,6 +142,7 @@ string findSum(string str1, string str2)
 		//----------------------mycode-----------------------------------------------------------------------------------------
 	   	ll u;
 	   	cin>>u;
+		// program to check the xororxoror
 	   	while(u--)
 	   	{
 	   	    ll a,b,d,e;
