@@ -16,6 +16,7 @@
 	typedef pair<ll,ll> pii;
 	typedef vector<ll> vi;
 	typedef vector<vector<ll>> vvi;
+// my code is good
 	void sorted(vector<ll> &arr)
 	{
 		sort(arr.begin(),arr.end());
